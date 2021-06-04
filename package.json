@@ -1,0 +1,14 @@
+{
+  "name": "lista_telefonica",
+  "version": "0.0.1",
+  "description": "CRUD de uma lista telefonica",
+  "main": "index.js",
+  "author": "valtercioj",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2",
+    "sequelize-cli": "^6.2.0"
+  }
+}
